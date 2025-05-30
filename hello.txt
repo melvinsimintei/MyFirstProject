@@ -1,3 +1,2 @@
 Hello Git!
-Welcome to my First Git Powered Project!
-Written by Melvin Simintei. 
+Welcome to my first Git project!
