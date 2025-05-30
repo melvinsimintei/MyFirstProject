@@ -1,1 +1,2 @@
 Hello Git!
+ Written by Melvin Simintei
